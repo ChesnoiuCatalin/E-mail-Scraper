@@ -44,9 +44,6 @@ Lastly, the for loop prints all emails stored in the emails set.
 
 This project has helped to strengthen my Python coding abilities.
 
-This project assisted me in comprehending how backdoors can infiltrate a victim's computer, establish persistence, and successfully exfiltrate data to the server.
+Learn how to extract data from websites using web scraping and analyze it using data mining techniques.
 
-An understanding of the workings of a keylogger script is essential for proper implementation.
-
-My understanding of server-client architecture and communication was consolidated.
-
+I learned how to use regular expressions to match patterns in email addresses.
